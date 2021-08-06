@@ -1,0 +1,19 @@
+.screen{
+    height: 100vh;
+}
+.button-primary{
+    padding: 7px 18px;
+    margin-top: 25px;
+}
+.logo{
+    width: 40px;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
+span{
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Oswald', sans-serif;
+}
